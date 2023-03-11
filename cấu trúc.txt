@@ -1,0 +1,7 @@
+header
+slider
+content
+	+about
+	+collection
+	+about-collection
+footer
